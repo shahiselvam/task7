@@ -1,0 +1,25 @@
+body{
+
+    background-color: bisque;
+}
+
+.card-img-top  {
+
+width: 350px;
+height: 250px;
+
+}
+
+.card{
+
+    margin-bottom: 50px;
+    border: 1px solid #000;
+}
+
+h1{
+
+    text-align: center;
+    text-transform: capitalize;
+    padding: 20px;
+
+}
